@@ -1,0 +1,13 @@
+#Virtual envireonment]
+venv/
+#Flask
+instance/*
+!instance/.gitignore
+.webassets-catche
+
+#Flask.Python  Stack
+# Byte compiled  /optimized /DLl Files
+__pycache__/
+*.__pycatche
+*.py[cod]
+*$py.class
